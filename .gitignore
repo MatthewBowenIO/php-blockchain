@@ -1,0 +1,5 @@
+.DS_Store
+/wallets/*
+.idea/*
+errors.log
+.htaaccess
